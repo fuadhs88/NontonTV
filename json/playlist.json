@@ -87,7 +87,12 @@
     {
       "cid": 0,
       "name": "ANTV",
-      "stream_url": "https://stream.suryaiptv.net/streams/5_.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s07/02.m3u8"
+    },
+        {
+      "cid": 0,
+      "name": "Mola TV",
+      "stream_url": "https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8"
     },
     {
       "cid": 1,
@@ -337,7 +342,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8"
+      "stream_url": "https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=778"
     },
     {
       "cid": 2,
@@ -382,12 +387,12 @@
     {
       "cid": 0,
       "name": "Indosiar",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s04/01.m3u8"
+      "stream_url": "https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=205"
     },
     {
       "cid": 1,
       "name": "iNews TV",
-      "stream_url": "https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8"
+      "stream_url": "https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=665"
     },
     {
       "cid": 6,
@@ -617,7 +622,7 @@
     {
       "cid": 0,
       "name": "SCTV",
-      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+      "stream_url": "https://iptv-ppvhxd1r4.vercel.app/api/vidio?id=204"
     },
     {
       "cid": 2,
@@ -737,7 +742,7 @@
     {
       "cid": 1,
       "name": "TV One",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
+      "stream_url": "https://iptv-ppvhxd1r4.vercel.app/api/yt?id=XdZ2nJvmfrI"
     },
     {
       "cid": 1,
